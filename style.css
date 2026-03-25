@@ -1,0 +1,13 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: url(Assets/space.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#my-Div{
+    position: absolute;
+    pointer-events: none;
+}
